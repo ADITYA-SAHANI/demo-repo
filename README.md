@@ -1,4 +1,4 @@
 #DEMO
 
 
-A SIMPLE APP
+A SIMPLE APP that is awesome.
